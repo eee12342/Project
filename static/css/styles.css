@@ -10820,3 +10820,18 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+/* Added CSS */
+
+.header-button {
+  color: var(--bs-navbar-active-color);
+}
+.auth-button {
+  border: 1px solid white;
+  border-radius: 2px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
