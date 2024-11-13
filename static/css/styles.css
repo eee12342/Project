@@ -10835,3 +10835,27 @@ textarea.form-control-lg {
   padding-top: 3px;
   padding-bottom: 3px;
 }
+.add-button {
+  border: 1px solid white;
+  border-radius: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.content-type-form {
+  margin-left: 50%;
+  margin-right: 50%;
+  font-size: larger;
+  align-items: center;
+}
+.form-group {
+  padding-top: 20px;
+  width: 200px;
+}
+.form-control {
+  margin-top: 10px;
+  width: 200px;
+  text-align: center;
+}
+.btn.btn-primary.btn-md {
+  margin-top: 10px;
+}
